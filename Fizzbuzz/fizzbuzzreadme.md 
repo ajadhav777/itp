@@ -1,0 +1,53 @@
+
+
+Started with using "// ✅ Finding numbers divisible by 7 and 5 between 1500 and 2700
+for (let i = 1500; i <= 2700; i++) {
+  if (i % 7 === 0 && i % 5 === 0) {
+    console.log(i);" as a reference to begin my code.
+	
+	Ran into a couple of code running issues as I forgot to put in a semicolon or a bracket here and there
+	Finally got the code to print numbers divisible by 3 & 5 - realised that it only prints if the number is divisible by BOTH 3 & 5.
+	Made it print numbers only divisible by 3.
+> 	Realised that if I say "for (let i = 1; i <= 100; i++) {
+  if (i % 3 === 0) {
+    console.log(i);
+  }
+  }"
+  it will print only numbers divisible by 3. Need to figure out how to make it print all numbers
+  
+  I wrote a code but when I tried to run it, it said "parser error"
+  This is very frustrating ...
+  
+  I chat gpt'ed the question (not sure if I'm allowed to)
+  It gave me the response
+  I read it and I'm going to try and write the whole thing by myself without referring to it
+  
+  I wrote the whole code by myself
+  There were some errors - it said I cannot state 'i' twice and i had a random bracket or something
+  
+  i fixed it
+  
+  I DID IT IT WORKED i could not be happier, honestly
+  :)
+  
+  
+  i tried to re-do it for the fun of it, and for some reason the code i wrote would not work at all:
+
+  //for (let i = 1; 1 <= 100; i++) {
+  //	if (i % 3 === 0 && i % 5 === 0) {
+  //		console.log("FizzBuzz");
+  //	}
+  //	else if (i % 3 === 0) {
+  //		console.log("Fizz");
+  //		
+  //	}
+  //	else if (i % 5 === 0) {
+  //		console.log("Buzz");
+  //	}
+  //	else {
+  //		console.log(i);
+  //	}
+  	//}
+	
+	but the first one i did works just fine. is it a formatting issue?
+	

@@ -22,3 +22,6 @@ How to define a variable to hold function value.
 
 1 thing I did not know:
 Growing functions.
+
+[JavaScriptReadingHomeWork](https://github.com/rdwrome/261sp25/blob/main/01Git%26Shell/README.md)
+
